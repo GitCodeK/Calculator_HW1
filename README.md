@@ -18,7 +18,7 @@
 1-6. Protocol must base on ASCII-code
 
 
-## 2. Report
+## 2. Report & Protocol
 2-1. This Protocol based on HTML protocol (ex. 200 ok) <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
 
 ## 3. Running
@@ -26,6 +26,7 @@
 
 ## 4. History
 23.11.04
+
 
 Build Protocol & Conceptual design
 
