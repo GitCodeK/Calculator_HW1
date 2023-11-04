@@ -1,18 +1,20 @@
 # Calculator Server & Client
 
 ## 1. Requirements
-1-1. Using Java socket API with server-client network
+'''
+1. Using Java socket API with server-client network
 
-1-2. Four basic arithmetic operation (+, -, *, /)
+2. Four basic arithmetic operation (+, -, *, /)
 
-1-3. Server may be either answer or error message
+3. Server may be either answer or error message
 
-1-4. Server must handle multiple client at a time
+4. Server must handle multiple client at a time
 
-1-5. Server IP address & port number is stored with text file (e.g. server_info.dat) (if not exist, use default)
+5. Server IP address & port number is stored with text file (e.g. server_info.dat) (if not exist, use default)
 
-1-6. Protocol must base on ASCII-code
+6. Protocol must base on ASCII-code
 
+'''
 
 ## 2. Protocol
 ### 2-1. This Protocol based on HTML protocol 
