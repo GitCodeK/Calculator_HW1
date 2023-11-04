@@ -1,5 +1,5 @@
 # Calculator Server & Client
-Requirements
+### Requirements
 1. Using Java socket API with server-client network
 2. Four basic arithmetic operation (+, -, *, /)
 3. Server may be either answer or error message
