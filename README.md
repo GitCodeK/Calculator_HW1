@@ -16,7 +16,16 @@
 
 ## 2. Report & Protocol
 2-1. This Protocol based on HTML protocol (ex. 200 ok) <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
-2-2.
+
+2-2. Protocol
+
+Protocol have "Number + Message".
+
+Number can expression state like them
+- 100 : calculation
+- 200 : OK
+- 400 : Bad Request (Undefine Message form)
+- 000 : divided by 0
 
 
 ## 3. Running
