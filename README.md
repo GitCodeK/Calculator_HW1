@@ -1,7 +1,6 @@
 # Calculator Server & Client
 
 ## 1. Requirements
-
 <pre><code>
   1. Using Java socket API with server-client network
   2. Four basic arithmetic operation (+, -, *, /)
