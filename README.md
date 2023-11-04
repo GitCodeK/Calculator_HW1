@@ -14,7 +14,7 @@
 1-6. Protocol must base on ASCII-code
 
 
-## 2. Report & Protocol
+## 2. Protocol
 ### 2-1. This Protocol based on HTML protocol 
 
 <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
@@ -31,18 +31,22 @@ Number can expression state like them
 
 Message form must be "number operation number"
 
-## 3. Running
+
+## 3 Report
 
 
-## 4. History
+## 4. Running
+
+
+## 5. History
 23.11.04
 
 
 Build Protocol & Conceptual design
 
 
-## 5. Output
+## 6. Output
 
 
-## 6. Reference
-6-1. HTML protocol <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
+## 7. Reference
+7-1. HTML protocol <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
