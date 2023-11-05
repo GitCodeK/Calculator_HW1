@@ -25,6 +25,7 @@ Number can expression state like them
 - 100 : calculation
 - 200 : OK (Right Respond)
 - 400 : Bad Request (Undefine Message form)
+- 429 : Not Pair of Number & operation (ex. Number Number operation)
 
 Message form must be "number operation number operation ..."
 
@@ -40,6 +41,11 @@ Message form must be "number operation number operation ..."
 
 
 Build Protocol & Conceptual design
+
+
+23.11.05
+
+Draw class model & Start server making
 
 
 ## 6. Output
