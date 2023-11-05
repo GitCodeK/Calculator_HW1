@@ -37,13 +37,13 @@ Message form must be "number operation number operation ..."
 
 
 ## 5. History
-23.11.04
+### 23.11.04
 
 
 Build Protocol & Conceptual design
 
 
-23.11.05
+### 23.11.05
 
 Draw class model & Start server making
 
