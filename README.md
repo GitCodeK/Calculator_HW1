@@ -18,7 +18,7 @@
 
 ### 2-2. Protocol
 
-Protocol have "Number : Message".
+Protocol have "State: Message".
 
 Number can expression state like them
 - 000 : divided by 0
