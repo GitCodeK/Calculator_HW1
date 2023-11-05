@@ -18,7 +18,7 @@
 
 ### 2-2. Protocol
 
-Protocol have "Number / Message".
+Protocol have "Number : Message".
 
 Number can expression state like them
 - 000 : divided by 0
@@ -26,7 +26,7 @@ Number can expression state like them
 - 200 : OK (Right Respond)
 - 400 : Bad Request (Undefine Message form)
 
-Message form must be "number operation number"
+Message form must be "number operation number operation ..."
 
 
 ## 3 Report
