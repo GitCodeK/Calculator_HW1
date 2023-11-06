@@ -20,7 +20,7 @@
 
 Protocol have "State : Checksum : Message".
 
-Number can expression state like them
+State can expression
 - 000 : divided by 0
 - 100 : calculation
 - 200 : OK (Right Respond)
@@ -28,6 +28,9 @@ Number can expression state like them
 - 429 : Not Pair of Number & operation (ex. Number Number operation)
 
 Use Checksum to ensure you're sending the correct value.
+- Convert and sum messages character by character to bits.
+- If the total is more than 8 digits, perform end rounding to make it 8 digits.
+
 
 Message form must be "number operation number operation ..."
 
