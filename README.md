@@ -22,7 +22,7 @@
 Protocol have "Length:State:Checksum:Message".
 
 State can expression
-- 000 : divided by 0
+- 010 : divided by 0
 - 100 : calculation
 - 200 : OK (Right Respond)
 - 400 : Bad Request (Undefine Mathematical expressions form)
