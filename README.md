@@ -34,8 +34,6 @@ Use Checksum to ensure you're sending the correct value.
 
 Message form must be "number operation number operation ..."
 
-Message based on ASCII-code.
-
 
 ## 3 Report
 
