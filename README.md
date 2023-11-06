@@ -22,10 +22,10 @@
 Protocol have "Length:State:Checksum:Message".
 
 State can expression
-- 000 : divided by 0
 - 100 : calculation
 - 200 : OK (Right Respond)
 - 400 : Bad Request (Undefine Mathematical expressions form)
+- 400 : divided by 0
 - 502 : Checksum Error
 
 Use Checksum to ensure you're sending the correct value.
