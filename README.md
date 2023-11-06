@@ -19,7 +19,7 @@
 
 ### 2-2. Protocol
 
-Protocol have "State : Checksum : Message".
+Protocol have "Length:State:Checksum:Message".
 
 State can expression
 - 000 : divided by 0
