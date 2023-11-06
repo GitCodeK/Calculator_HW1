@@ -29,7 +29,7 @@ State can expression
 - 429 : Not Pair of Number & operation (ex. Number Number operation)
 
 Use Checksum to ensure you're sending the correct value.
-- Convert and sum messages character by character to ASCII.
+- Convert and sum total character by character to ASCII.
 - If the total is more than 4 digits, Delete all numbers with 4 or more digits.
 
 Message form must be "number operation number operation ..."
