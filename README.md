@@ -27,6 +27,7 @@ State can expression
 - 200 : OK (Right Respond)
 - 400 : Bad Request (Undefine Message form)
 - 429 : Not Pair of Number & operation (ex. Number Number operation)
+- 502 : Checksum Error
 
 Use Checksum to ensure you're sending the correct value.
 - Convert and sum Message character by character to ASCII.
