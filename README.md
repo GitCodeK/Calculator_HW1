@@ -21,8 +21,6 @@
 
 Protocol have "State : Checksum : Message".
 
-
-
 State can expression
 - 000 : divided by 0
 - 100 : calculation
@@ -30,15 +28,13 @@ State can expression
 - 400 : Bad Request (Undefine Message form)
 - 429 : Not Pair of Number & operation (ex. Number Number operation)
 
-
-
 Use Checksum to ensure you're sending the correct value.
 - Convert and sum messages character by character to ASCII.
 - If the total is more than 4 digits, Delete all numbers with 4 or more digits.
 
-
-
 Message form must be "number operation number operation ..."
+
+All Protocol based on ASCII-code.
 
 
 ## 3 Report
