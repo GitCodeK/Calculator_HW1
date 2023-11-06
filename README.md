@@ -18,7 +18,7 @@
 
 ### 2-2. Protocol
 
-Protocol have "State: Message".
+Protocol have "State : Checksum : Message".
 
 Number can expression state like them
 - 000 : divided by 0
@@ -26,6 +26,8 @@ Number can expression state like them
 - 200 : OK (Right Respond)
 - 400 : Bad Request (Undefine Message form)
 - 429 : Not Pair of Number & operation (ex. Number Number operation)
+
+Use Checksum to ensure you're sending the correct value.
 
 Message form must be "number operation number operation ..."
 
