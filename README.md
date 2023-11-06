@@ -16,6 +16,7 @@
 
 <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
 
+
 ### 2-2. Protocol
 
 Protocol have "State : Checksum : Message".
@@ -26,6 +27,7 @@ State can expression
 - 200 : OK (Right Respond)
 - 400 : Bad Request (Undefine Message form)
 - 429 : Not Pair of Number & operation (ex. Number Number operation)
+
 
 Use Checksum to ensure you're sending the correct value.
 - Convert and sum messages character by character to bits.
