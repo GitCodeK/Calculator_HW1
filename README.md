@@ -33,8 +33,8 @@ State can expression
 
 
 Use Checksum to ensure you're sending the correct value.
-- Convert and sum messages character by character to bits.
-- If the total is more than 8 digits, perform end rounding to make it 8 digits.
+- Convert and sum messages character by character to ASCII.
+- If the total is more than 4 digits, Delete all numbers with 4 or more digits.
 
 
 
