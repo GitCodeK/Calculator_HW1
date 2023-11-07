@@ -60,8 +60,5 @@ Make Server & Address class
 Make Client & Translation class
 
 
-## 6. Output
-
-
-## 7. Reference
-7-1. HTML protocol <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
+## 6. Reference
+6-1. HTML protocol <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
