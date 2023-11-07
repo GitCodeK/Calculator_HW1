@@ -54,7 +54,10 @@ Draw class model & Start server making
 
 
 ### 23.11.06
-Make Source file
+Make Server & Address class
+
+## 23.11.07
+Make Client & Translation class
 
 
 ## 6. Output
