@@ -41,14 +41,8 @@ If there is exception, Server send message without edit to Client
 
 
 ## 4. Running
-<img width="45%" src="https://github.com/GitCodeK/Calculator_HW1/assets/123552750/ab814901-3079-4cf5-82a0-bfae31a2f0a1">
-<img width="45%" src="https://github.com/GitCodeK/Calculator_HW1/assets/123552750/5a6be12f-49c8-4dcb-9b30-1cf683f2f90a">
+<img width="80%" src="https://github.com/GitCodeK/Calculator_HW1/assets/123552750/ab814901-3079-4cf5-82a0-bfae31a2f0a1">
 
-
-
-<img width="30%" src="https://github.com/GitCodeK/Calculator_HW1/assets/123552750/ebf4588a-9285-4d22-aceb-2adfeeba95d3">
-<img width="30%" src="https://github.com/GitCodeK/Calculator_HW1/assets/123552750/76e51cde-4dcd-4896-aa54-db7f4fca11fe">
-<img width="30%" src="https://github.com/GitCodeK/Calculator_HW1/assets/123552750/85e11774-f1f5-496f-9b9b-83028cf268e8">
 
 ## 5. History
 ### 23.11.04
