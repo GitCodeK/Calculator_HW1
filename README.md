@@ -35,6 +35,8 @@ Use Checksum to ensure you're sending the correct value.
 Message form must be "number operation number operation ..."
 
 
+If there is exception, Server send message without edit to Client
+
 ## 3 Report
 
 
