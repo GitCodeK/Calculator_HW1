@@ -41,7 +41,7 @@ If there is exception, Server send message without edit to Client
 
 
 ## 4. Running
-<img width="80%" src="https://github.com/GitCodeK/Calculator_HW1/assets/123552750/ab814901-3079-4cf5-82a0-bfae31a2f0a1">
+<img width="80%" src="https://github.com/GitCodeK/Calculator_HW1/assets/123552750/ef77c156-a622-45c2-9a54-b8146a09c621">
 
 
 ## 5. History
