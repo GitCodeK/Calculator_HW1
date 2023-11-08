@@ -38,6 +38,25 @@ Message form must be "number operation number operation ..."
 If there is exception, Server send message without edit to Client
 
 ## 3 Report
+<img width="80%" src="https://github.com/GitCodeK/Calculator_HW1/assets/123552750/2f05a86f-b6c4-4ad0-8bae-c62330058f40">
+### System overview
+<pre><code>
+	1. Run “Server”
+			- With “Address” get Address information in “server_info.dat”.
+			- If not exist “server_info.dat”, “Address” is default(ip=127.0.0.1, port=1234).
+			- Server take information with “Address.get_ip(), Address.get_port”
+	2. “Server” wait during coming to client with listener
+	3. Run “Client”
+			- Same to “Server”, Run with “Address”
+	4. If “Server” listen “Client”, “Server create “thread” & match “Client” (”Server maintain listenning)
+5. “Client” get Mathematical expression from user & Using “Translation.MathToMessage”, “Translation.MessagetoASCII” make that into Message (with protocol)
+6. “Client” propagation Message to “thread”
+7. “thread” get ASCII Message, Translation ASCII to String Message (Translation.ASCIItoString)
+8. “thread” Translate Message & Calculate & Catch Exception & Make repond Message (Translatoin.MessagetoMessage)
+9. “thread” using Translation.MessagetoASCII propagation Message to “Client”
+10 “Client” get Message & Translation Message with “Translation.MessagetoMessage” & Display result
+11. Close the connection
+</code></pre>
 
 
 ## 4. Running
