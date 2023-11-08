@@ -39,6 +39,7 @@ If there is exception, Server send message without edit to Client
 
 ## 3 Report
 <img width="80%" src="https://github.com/GitCodeK/Calculator_HW1/assets/123552750/2f05a86f-b6c4-4ad0-8bae-c62330058f40">
+
 ### System overview
 <pre><code>
 	1. Run “Server”
