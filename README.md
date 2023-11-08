@@ -42,14 +42,14 @@ If there is exception, Server send message without edit to Client
 
 ### System overview
 <pre><code>
-	1. Run “Server”
-			- With “Address” get Address information in “server_info.dat”.
-			- If not exist “server_info.dat”, “Address” is default(ip=127.0.0.1, port=1234).
-			- Server take information with “Address.get_ip(), Address.get_port”
-	2. “Server” wait during coming to client with listener
-	3. Run “Client”
-			- Same to “Server”, Run with “Address”
-	4. If “Server” listen “Client”, “Server create “thread” & match “Client” (”Server maintain listenning)
+1. Run “Server”
+	- With “Address” get Address information in “server_info.dat”.
+	- If not exist “server_info.dat”, “Address” is default(ip=127.0.0.1, port=1234).
+	- Server take information with “Address.get_ip(), Address.get_port”
+2. “Server” wait during coming to client with listener
+3. Run “Client”
+	- Same to “Server”, Run with “Address”
+4. If “Server” listen “Client”, “Server create “thread” & match “Client” (”Server maintain listenning)
 5. “Client” get Mathematical expression from user & Using “Translation.MathToMessage”, “Translation.MessagetoASCII” make that into Message (with protocol)
 6. “Client” propagation Message to “thread”
 7. “thread” get ASCII Message, Translation ASCII to String Message (Translation.ASCIItoString)
