@@ -77,6 +77,9 @@ If there is exception, Server send message without edit to Client
 ### 23.11.07
 - Make Client & Translation class
 
+### 23.11.08
+- Make Diagram & footnote
+
 
 ## 6. Reference
 6-1. HTML protocol <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
