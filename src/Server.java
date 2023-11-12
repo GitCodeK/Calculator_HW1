@@ -14,7 +14,7 @@ public class Server {
 		
 		try {
 			listener=new ServerSocket(address.get_port());
-			System.out.println("Server Running (Port = "+address.get_port()+")\n");
+			System.out.println("Server Running (Port = "+address.get_port()+")");
 			
 			while(true) {
 				Socket sock=listener.accept();
@@ -39,7 +39,7 @@ class Calculation implements Runnable{
 		PrintWriter out=null;
 		Translation tl=new Translation();
 		
-		System.out.println("Client Connection\t"+socket);
+		System.out.println("\nClient Connection\t"+socket);
 		
 		try {
 			in=new Scanner(socket.getInputStream());
