@@ -81,5 +81,9 @@ If there is exception, Server send message without edit to Client
 - Make Diagram & footnote
 
 
+### 23.11.12
+- Write annotation
+
+
 ## 6. Reference
 6-1. HTML protocol <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
